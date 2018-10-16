@@ -5,5 +5,5 @@
 
 ## しゅみ
 ポケモン
-<img src="PokeHal1.jpg" alt="ポケモン" title="ポケモン" width="1000" height="1000" />
-<img src="PokeHal2.jpg" alt="ポケモン" title="ポケモン" width="1000" height="1000" />
+<img src="PokeHal1.jpg" alt="ポケモン" title="ポケモン" width="800" height="565" />
+<img src="PokeHal2.jpg" alt="ポケモン" title="ポケモン" width="800" height="565" />
