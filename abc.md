@@ -6,5 +6,5 @@
 ## しゅみ
 ポケモン
 
-<img src="PokeHal1.jpg" alt="ポケモン" title="ポケモン" width="800" height="565" />
-<img src="PokeHal2.jpg" alt="ポケモン" title="ポケモン" width="800" height="565" />
+<img src="panjan.png" alt="パンじゃん" title="パンジャンドラム" width="800" height="565" />
+
