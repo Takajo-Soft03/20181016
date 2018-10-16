@@ -7,4 +7,3 @@
 ポケモン
 
 <img src="panjan.png" alt="パンじゃん" title="パンジャンドラム" width="800" height="565" />
-
