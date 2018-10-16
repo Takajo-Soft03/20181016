@@ -7,3 +7,9 @@
 ポケモン
 
 <img src="panjan.png" alt="パンじゃん" title="パンジャンドラム" width="800" height="565" />
+
+これは<span style="color:red;">あかいろ</span>です。
+
+<font color="Green">緑色</font>だす。
+
+[もどる](https://takajo-soft03.github.io/20181016/)
